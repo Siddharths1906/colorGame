@@ -1,2 +1,0 @@
-# colorgame
-ColorGame
